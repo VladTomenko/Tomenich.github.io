@@ -1,7 +1,7 @@
 
 
 # Влад Томенко
-Моя первая робота
+Моя первая работа
 
 [app](https://VladTomenko.github.io/Start/app/ "my profile")
 
